@@ -2,13 +2,13 @@
 
 В БД две таблицы:
 1. companies:
-company_id
-company_title
+company_id;
+company_title.
 2. vacancies:
-vacancy_id
-company_id
-vacancy_title
-salary
+vacancy_id;
+company_id;
+vacancy_title;
+salary;
 url
 
 Класс для работы с БД и выводом информаций с таблиц:
